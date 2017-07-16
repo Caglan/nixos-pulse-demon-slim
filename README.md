@@ -12,7 +12,7 @@ services = {
     enable = true;
     theme = pkgs.fetchurl {
       url = "https://github.com/robertodr/nixos-pulse-demon-slim/archive/v1.0.tar.gz";
-      sha256 = "13bm7k3p6k7yq47nba08bn48cfv536k4ipnwwp1q1l2ydlp85r9d";
+      sha256 = "09z8y6fac9l9805f2j3q3zbidymx3s7hysx23vb07pc1s4n6874x";
     };
   }; 
 };
